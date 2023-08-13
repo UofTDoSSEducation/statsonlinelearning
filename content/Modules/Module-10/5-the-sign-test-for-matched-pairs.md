@@ -12,4 +12,4 @@ Stream the video without the embedded quiz questions by clicking on the video li
 
 ### Calculating Binomial Probabilities
 
-The sign test uses the binomial probability distribution. To calculate binomial probabilities, you can use the [binomial distribution probability table](../BinomialDistributionTable.pdf) or the [probability distribution calculator](https://rconnect.utstat.utoronto.ca/distributionalcalculator/). Both the table and the app are available on the menu under [Probability Distribution Calculator]({{< ref "Calculator" >}}).
+The sign test uses the binomial probability distribution. To calculate binomial probabilities, you can use the [binomial distribution probability table](../../../extraresources/BinomialDistributionTable.pdf) or the [probability distribution calculator](https://rconnect.utstat.utoronto.ca/distributionalcalculator/). Both the table and the app are available on the menu under [Probability Distribution Calculator]({{< ref "Calculator" >}}).

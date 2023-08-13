@@ -14,7 +14,7 @@ For the derivation of the expectation and variance for two results quoted near t
 
 ### Using a Normal Probability Table
 
-A normal probability table can be used to find probabilities and quantiles for values from the standard normal distribution. In this video, we demonstrate how to use a table. The particular [normal probability table](../NormalDistributionTable.pdf) used in the video is from [OpenIntro Statistics](https://www.openintro.org/stat/textbook.php) (external link, opens in new window) (licensed under the Creative Commons BY-SA 3.0 license).
+A normal probability table can be used to find probabilities and quantiles for values from the standard normal distribution. In this video, we demonstrate how to use a table. The particular [normal probability table](../../../extraresources/NormalDistributionTable.pdf) used in the video is from [OpenIntro Statistics](https://www.openintro.org/stat/textbook.php) (external link, opens in new window) (licensed under the Creative Commons BY-SA 3.0 license).
 
 Stream the video without the embedded quiz questions by clicking on the video link below. Closed captions are available.
 

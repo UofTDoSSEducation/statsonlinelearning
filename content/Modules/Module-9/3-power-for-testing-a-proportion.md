@@ -6,8 +6,6 @@ This Shiny app and accompanying learning activity are designed to allow you to i
 
 Follow the instructions in this [Learning activity](../InvestigatingPowerExerciseMothersIntuition.pdf) (pdf)
 
-Click on the image of the app below to launch the app in a new browser window.
+[Launch the app in a new browser window.](https://rconnect.utstat.utoronto.ca/powerapp/)
 
-...
-
-ADD app
+![](/img/ScreenShotInvestigatingPowerApp.png)

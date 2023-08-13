@@ -6,6 +6,6 @@ This learning activity and accompanying app will allow you to explore how the ce
 
 Follow the instructions in this [learning activity](../SampDistMeanVarLearningActivity.pdf) (pdf).
 
-Click on the image of the app below to launch the app in a new browser window.
+[Launch the app in a new browser window.](https://rconnect.utstat.utoronto.ca/distributionalcalculator/)
 
-...
+![](/img/ScreenShotSamplingDistributionApp.png)

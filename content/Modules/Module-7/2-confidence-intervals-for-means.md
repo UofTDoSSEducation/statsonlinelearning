@@ -20,6 +20,6 @@ The variability in the distribution of the individual observations is denoted by
 
 This video introduced a new probability distribution, the t distribution. You can read more about it in these [notes on the t distribution](../tdistribution.pdf).
 
-A [t Distribution table](../tDistributionTable.pdf) can be used to find probabilities and quantiles for values from t distributions. This t table is from [OpenIntro Statistics](https://www.openintro.org/stat/textbook.php) (external link, opens in new window) (licensed under the Creative Commons BY-SA 3.0 license).
+A [t Distribution table](../../../extraresources/tDistributionTable.pdf) can be used to find probabilities and quantiles for values from t distributions. This t table is from [OpenIntro Statistics](https://www.openintro.org/stat/textbook.php) (external link, opens in new window) (licensed under the Creative Commons BY-SA 3.0 license).
 
 In practice, statistical software is typically used to obtain probabilities and quantiles from t distributions. The [Probability Distribution Calculator]({{< ref "/Calculator" >}}) is an app that can be used for this.

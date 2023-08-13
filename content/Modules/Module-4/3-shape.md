@@ -6,6 +6,6 @@ Continuing with the Shiny app: Sampling Distribution of the Mean, we will now ex
 
 Follow the instructions in this [learning activity](../SampDistCLTActivity.pdf) (pdf).
 
-Click on the image of the app below to launch the app in a new browser window.
+[Launch the app in a new browser window.](https://rconnect.utstat.utoronto.ca/distributionalcalculator/)
 
-...
+![](/img/ScreenShotSamplingDistributionApp.png)
