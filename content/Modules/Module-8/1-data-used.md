@@ -8,5 +8,5 @@ The following data sets are used in this module. Select the links below to famil
 [Download the Plastic Surgery Data file](../../../data/agechange.txt) (plain text)
 2. [Information about the Skeleton Data]({{< ref "/data/the-skeleton-data" >}})  
 [Download the Skeleton Data file](../../../data/SkeletonDatacomplete.txt) (plain text)
-3. [Information about the Body Temperature Data({{< ref "/data/the-body-temperature-data" >}})  
+3. [Information about the Body Temperature Data]({{< ref "/data/the-body-temperature-data" >}})  
 [Download the Body Temperature Data file](../../../data/TempData.txt) (plain text)
