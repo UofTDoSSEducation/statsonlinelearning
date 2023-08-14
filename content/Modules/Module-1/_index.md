@@ -2,6 +2,7 @@
 title: "M1 - Summarizing Data: One Variable"
 date: 2023-08-10T13:36:37-04:00
 draft: false
+weight: -1
 ---
 
 ## Summarizing Data: One Variable

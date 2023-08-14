@@ -1,5 +1,6 @@
 ---
 title: "Probability Distribution Calculator"
+weight: 4
 ---
 
 This Shiny app allows you to calculate the probability of being less than or equal to a value or to calculate the value that has specified probability of being less than or equal to it. The calculator gives these values for binomial, continuous uniform, normal and t distributions.

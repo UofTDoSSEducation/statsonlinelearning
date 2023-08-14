@@ -1,5 +1,6 @@
 ---
 title: "M6 - Confidence Intervals Part 1"
+weight: 6
 ---
 
 By the end of this module, you should be able to:

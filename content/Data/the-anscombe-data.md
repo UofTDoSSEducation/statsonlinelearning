@@ -1,5 +1,6 @@
 ---
 title: "The Anscombe Data"
+weight: 9
 ---
 
 [Download the Anscombe data (plain text).](../anscombedata.txt)

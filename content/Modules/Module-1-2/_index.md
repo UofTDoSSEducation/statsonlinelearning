@@ -2,6 +2,7 @@
 title: "M1 - Summarizing Data: Relationships Between Variables"
 date: 2023-08-10T18:15:42-04:00
 draft: false
+weight: 1
 ---
 
 ### By the end of this module, you should be able to:

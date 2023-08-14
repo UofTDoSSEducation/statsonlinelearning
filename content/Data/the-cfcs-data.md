@@ -1,5 +1,6 @@
 ---
 title: "The CFCs Data"
+weight: 8
 ---
 
 [Download the CFCs data (plain text).](../CFCdata.txt)

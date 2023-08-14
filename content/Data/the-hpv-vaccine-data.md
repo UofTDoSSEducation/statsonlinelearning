@@ -1,5 +1,6 @@
 ---
 title: "The HPV Vaccine Data"
+weight: 6
 ---
 
 The human papillomavirus (HPV) is a common sexually transmitted infection, known to be a cause of genital warts and cervical cancer. Because people are often unaware that they have acquired the infection, it is easily spread.  In many jurisdictions, there now exist public health programs for the widespread administration of an HPV vaccine.

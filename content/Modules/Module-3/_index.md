@@ -1,5 +1,6 @@
 ---
 title: "M3 - Probability: Random Variables"
+weight: 3
 ---
 ### By the end of this module, you should be able to:
 

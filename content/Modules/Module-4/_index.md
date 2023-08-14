@@ -1,5 +1,6 @@
 ---
 title: "M4 - Sampling Distributions"
+weight: 4
 ---
 
 ### By the end of this module, you should be able to:

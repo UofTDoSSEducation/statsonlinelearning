@@ -2,6 +2,7 @@
 title: "Statistical Software"
 date: 2023-08-10T17:11:23-04:00
 draft: flase
+weight: 5
 ---
 
 For each module that includes analysis that can be carried out using statistical software, guides to carrying out the analysis using R are available. These can be accessed via the links below as well as within each module. An orientation and introduction to R is also provided in the links below.

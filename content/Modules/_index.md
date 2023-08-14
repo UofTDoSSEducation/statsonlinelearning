@@ -2,6 +2,7 @@
 title: "Modules"
 date: 2023-08-10T13:35:35-04:00
 draft: false
+weight: 1
 ---
 
 [Detailed lists of the topics covered in each module]({{< ref "/topics-list" >}})  

@@ -1,5 +1,6 @@
 ---
 title: "M5 - Data Collection"
+weight: 5
 ---
 
 ### By the end of this module, you should be able to:

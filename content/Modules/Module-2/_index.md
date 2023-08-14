@@ -1,5 +1,6 @@
 ---
 title: "M2 - Probability: Events"
+weight: 2
 ---
 ### By the end of this module, you should be able to:
 

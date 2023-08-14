@@ -1,5 +1,6 @@
 ---
 title: "M7 - Confidence Intervals Part 2"
+weight: 7
 ---
 
 ### By the end of this module, you should be able to:
