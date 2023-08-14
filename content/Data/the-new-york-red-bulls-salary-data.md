@@ -1,5 +1,6 @@
 ---
 title: "The New York Red Bulls Salary Data"
+weight: 2
 ---
 
 [Download the New York Red Bulls Salary data](../NYRedBullsSalaries.txt) (plain text).

@@ -1,5 +1,6 @@
 ---
 title: "M8 - The Process of Statistical Tests"
+weight: 8
 ---
 
 ### By the end of this module, you should be able to:

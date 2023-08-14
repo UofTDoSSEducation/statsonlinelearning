@@ -1,5 +1,6 @@
 ---
 title: "The Life Expectancy Data"
+weight: 3
 ---
 
 Download [the life expectancy data](../../../Data/LifeExpDatacomplete.txt) (plain text).

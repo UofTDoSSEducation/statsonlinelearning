@@ -1,5 +1,6 @@
 ---
 title: "The Body Temperature Data"
+weight: 5
 ---
 
 [Download the body temperature data](../TempData.txt) (plain text).
