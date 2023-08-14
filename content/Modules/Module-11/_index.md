@@ -1,5 +1,6 @@
 ---
 title: "M11 - Simple Linear Regression"
+weight: 12
 ---
 
 ## By the end of this module, you should be able to:

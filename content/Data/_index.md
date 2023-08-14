@@ -1,5 +1,6 @@
 ---
 title: "Data"
+weight: 3
 ---
 
 Information about the data sets that are used throughout these modules can be found below. Links are provided to download the data. All data sets are given in plain text format. Missing data in observations are indicated by NA, the missing value indicator in R. Other statistical software packages may require that NA be changed to the missing value indicator of that software.

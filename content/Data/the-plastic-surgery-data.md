@@ -1,6 +1,8 @@
 ---
 title: "The Plastic Surgery Data"
+weight: 4
 ---
+
 
 [Download the plastic surgery data](../agechange.txt) (plain text).
 

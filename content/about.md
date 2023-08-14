@@ -2,6 +2,7 @@
 title: "About"
 date: 2023-08-10T17:03:23-04:00
 draft: false
+weight: 6
 ---
 
 Funding for this project was received from the Government of Ontario Ministry of Training, Colleges and Universities through the Shared Online Course Fund.

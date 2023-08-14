@@ -2,6 +2,7 @@
 title: "Topics List"
 date: 2023-08-10T14:49:18-04:00
 draft: false
+weight: 2
 ---
 ### Summarizing Data: One Variable
 

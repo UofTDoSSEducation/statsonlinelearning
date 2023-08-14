@@ -1,5 +1,6 @@
 ---
 title: "The Skeleton Data"
+weight: 1
 ---
 
 [Download the Skeleton Data](../SkeletonDatacomplete.txt) (plain text).

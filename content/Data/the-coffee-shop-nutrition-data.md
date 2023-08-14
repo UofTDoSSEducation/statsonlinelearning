@@ -1,5 +1,6 @@
 ---
 title: "The Coffee Shop Nutrition Data"
+weight: 10
 ---
 
 [Download the Coffee Shop Nutrition data (plain text).](../starbucks.txt)

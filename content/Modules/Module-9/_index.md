@@ -1,5 +1,6 @@
 ---
 title: "M9 - The Effective Use of Statistical Tests"
+weight: 9
 ---
 
 ### By the end of this module, you should be able to:
