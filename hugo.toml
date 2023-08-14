@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://uoftdosseducation.github.io/STA220'
 languageCode = 'en-us'
 title = 'STA220'
 theme = "hugo-theme-relearn"
