@@ -1,3 +1,8 @@
+[params]
+  themeVariant='relearn-zen-light'
+ # canonifyURLs = true
+ # relativeURLs = true
+
 [module]
   [module.hugoVersion]
     min = "0.95.0"
