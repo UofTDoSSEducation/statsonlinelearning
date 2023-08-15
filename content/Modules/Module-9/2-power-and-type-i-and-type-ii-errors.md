@@ -9,7 +9,7 @@ Stream the video without the embedded quiz questions by clicking on the video li
 
 {{< youtube 8mM3e8_0XhY >}}
 
-[Notes on the video: Power and Type I and Type II Errors]()
+[Notes on the video: Power and Type I and Type II Errors](../9-1-Power-and-Type-I-and-Type-II-Errors.pdf)
 
 ### A point to consider for this video:
 
