@@ -8,4 +8,4 @@ Follow the instructions in this [Learning activity](../PowerAppExercise_mothersi
 
 [Launch the app in a new browser window.](https://rconnect.utstat.utoronto.ca/powerapp/)
 
-![](/img/ScreenShotInvestigatingPowerApp.png)
+![](../../../img/ScreenShotInvestigatingPowerApp.png)

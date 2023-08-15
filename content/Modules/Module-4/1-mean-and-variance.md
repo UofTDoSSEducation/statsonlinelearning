@@ -8,4 +8,4 @@ Follow the instructions in this [learning activity](../SampDistMeanVarLearningAc
 
 [Launch the app in a new browser window.](https://rconnect.utstat.utoronto.ca/distributionalcalculator/)
 
-![](/img/ScreenShotSamplingDistributionApp.png)
+![](../../../img/ScreenShotSamplingDistributionApp.png)

@@ -1,7 +1,5 @@
 [params]
   themeVariant='relearn-zen-light'
- # canonifyURLs = true
- # relativeURLs = true
 
 [module]
   [module.hugoVersion]
