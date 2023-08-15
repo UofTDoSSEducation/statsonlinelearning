@@ -1,6 +1,7 @@
----
-title: "Introduction to Confidence Intervals"
----
++++
+title = "Introduction to Confidence Intervals"
+hidden = true
++++
 
 We often think of data as imperfect or incomplete information, observed in the real world, which we want to use to say what we can about a parameter in a theoretical world of complete and perfect and information.
 

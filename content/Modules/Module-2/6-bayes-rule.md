@@ -1,6 +1,7 @@
----
-title: "Bayes’ Rule"
----
++++
+title = "Bayes’ Rule"
+hidden = true
++++
 
 Bayes’ rule is an application of conditional probability. It can be used to update the probability of an event when new information becomes available.
 

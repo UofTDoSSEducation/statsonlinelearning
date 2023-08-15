@@ -1,6 +1,7 @@
----
-title: "Confidence Intervals for Means"
----
++++
+title = "Confidence Intervals for Means"
+hidden = true
++++
 
 A confidence interval for a mean gives a range of plausible values for the mean in the population or the theoretical world based on the data we’ve observed in the real world. In this video, we’ll consider how to calculate a confidence interval for a mean, and introduce a necessary probability distribution.
 

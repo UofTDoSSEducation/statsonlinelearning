@@ -1,6 +1,7 @@
----
-title: "Matched Pairs"
----
++++
+title = "Matched Pairs"
+hidden = true
++++
 
 Sometimes measurements of the same quantity are made in pairs. Examples include measurements taken on the same subject before and after an intervention, or measurements taken on both members of a couple. These measurements should not be considered as independent, and statistical analyses must account for this paired structure.
 

@@ -1,6 +1,7 @@
----
-title: "Data used in the module Simple Linear Regression"
----
++++
+title = "Data used in the module Simple Linear Regression"
+hidden = true
++++
 
 The following data sets are used in this module. Select the links below to familiarize yourself with each of the datasets. Links are provided to download the data. Data sets are given in plain text format.
 

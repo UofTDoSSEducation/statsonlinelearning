@@ -1,6 +1,7 @@
----
-title: "Power and Type I and Type II Errors"
----
++++
+title = "Power and Type I and Type II Errors"
+hidden = true
++++
 
 When designing a study for which a statistical test will be carried out, the goal is usually to find evidence against the assumption about the theoretical world, as characterized by the null hypothesis. And if the study is well designed, there will be a high probability of rejecting the null hypothesis; this is the power of the test. This video considers the factors that affect the power, and the ways in which statistical tests can lead to incorrect conclusions.
 

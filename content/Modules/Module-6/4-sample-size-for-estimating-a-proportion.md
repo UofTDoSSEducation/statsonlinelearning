@@ -1,6 +1,7 @@
----
-title: "Sample Size for Estimating a Proportion"
----
++++
+title = "Sample Size for Estimating a Proportion"
+hidden = true
++++
 
 Determining an appropriate sample size is an important consideration in planning any survey or scientific study. In this video, we’ll consider how large of a sample is necessary in order to estimate a proportion within a desired margin of error.
 

@@ -1,6 +1,7 @@
----
-title: "Data used in the module Summarizing Data: Relationships Between Variables"
----
++++
+title = "Data used in the module Summarizing Data: Relationships Between Variables"
+hidden = true
++++
 
 The following data sets are used in this module. Click on the links below to familiarize yourself with each of the datasets. Links are provided to download the data. Data sets are given in plain text format.
 

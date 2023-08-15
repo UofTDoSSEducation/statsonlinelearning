@@ -1,6 +1,7 @@
----
-title: "Experiments"
----
++++
+title = "Experiments"
+hidden = true
++++
 
 Randomized controlled experiments allow the strongest conclusions to be made. When a well-designed experiment is carried out and a relationship is observed between an explanatory variable and the outcome, we can say that the explanatory variable causes changes in the outcome variable.
 

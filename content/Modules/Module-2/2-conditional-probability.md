@@ -1,6 +1,7 @@
----
-title: "Conditional Probability"
----
++++
+title = "Conditional Probability"
+hidden = true
++++
 
 In playing card games, it is often helpful to make decisions taking into account what cards have already been played. In doing this, the card player is adjusting the probability of what cards might next come up, given some information about what cards remain to be played. This is an example of conditional probability, using partial information about the event of interest to adjust its probability.
 

@@ -1,8 +1,7 @@
----
-title: "Explore the Skeleton Data"
-date: 2023-08-10T16:51:37-04:00
-draft: false
----
++++
+title = "Explore the Skeleton Data"
+hidden = true
++++
 
 This learning activity and app will allow you to apply the summary statistics and plots covered in this module to explore the Skeleton Data. If you haven’t already, first [read about the Skeleton Data here]({{< ref "/data/the-skeleton-data" >}}).
 

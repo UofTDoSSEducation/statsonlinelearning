@@ -1,6 +1,7 @@
----
-title: "Connection Between Confidence Intervals and Testing"
----
++++
+title = "Connection Between Confidence Intervals and Testing"
+hidden = true
++++
 
 Although the purposes of confidence intervals and statistical tests are different, there is a connection between two-sided tests and confidence intervals.
 

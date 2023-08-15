@@ -1,6 +1,7 @@
----
-title: "Comparing Two Means"
----
++++
+title = "Comparing Two Means"
+hidden = true
++++
 
 Does a measurement in one group differ on average from the measurement in another group? For two independent groups, we can consider this question by calculating a confidence interval for the difference in the means, or by carrying out a statistical test to consider whether or not the sample means are statistically significantly different.
 

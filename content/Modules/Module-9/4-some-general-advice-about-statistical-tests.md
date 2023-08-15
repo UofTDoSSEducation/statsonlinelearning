@@ -1,6 +1,7 @@
----
-title: "Some General Advice About Statistical Tests"
----
++++
+title = "Some General Advice About Statistical Tests"
+hidden = true
++++
 
 It is important to be aware of potential pitfalls that can be encountered when carrying out statistical tests, and how to avoid them.
 
