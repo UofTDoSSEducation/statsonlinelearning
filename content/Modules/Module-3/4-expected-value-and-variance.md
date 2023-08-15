@@ -1,6 +1,7 @@
----
-title: "Expected Value and Variance"
----
++++
+title = "Expected Value and Variance"
+hidden = true
++++
 The mean and standard deviance (or variance) of a set of measurements are two common statistics to capture the centre and spread of the data. In this sequence of videos, we will see analogous measures of centre and spread for random variables and their corresponding probability distributions.
 
 Expected Value of a Discrete Random Variable

@@ -1,6 +1,7 @@
----
-title: "The Sign Test for Matched Pairs"
----
++++
+title = "The Sign Test for Matched Pairs"
+hidden = true
++++
 
 Non-parametric methods in statistics include methods which do not rely on an assumption that the data are observations from a particular probability distribution. In this video, we’ll see one of those methods, the sign test for matched pairs.
 

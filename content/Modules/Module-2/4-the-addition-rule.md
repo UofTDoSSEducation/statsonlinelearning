@@ -1,6 +1,7 @@
----
-title: "The Addition Rule"
----
++++
+title = "The Addition Rule"
+hidden = true
++++
 
 In the previous video, we developed a multiplication rule for the probability that events A AND B both happen. In this video, we’ll consider how to calculate the probability that either event A OR event B (or both) happens.
 

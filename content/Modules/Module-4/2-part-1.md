@@ -1,6 +1,7 @@
----
-title: "The Distribution of a Sample Mean Part 1"
----
++++
+title = "The Distribution of a Sample Mean Part 1"
+hidden = true
++++
 
 We often observe several random measurements and take the average of the measurements. Because it’s calculated from random measurements, the average is also a random value. How does the probability distribution of the average compare to the probability distribution that describes the behaviour of the individual observations?
 

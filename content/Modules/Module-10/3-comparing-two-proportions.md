@@ -1,6 +1,7 @@
----
-title: "Comparing Two Proportions"
----
++++
+title = "Comparing Two Proportions"
+hidden = true
++++
 
 Is the proportion of members of one group the same as the proportion of the members of another group? If the groups are independent, we can extend inferential techniques for a single proportion to comparing proportions between two groups.
 

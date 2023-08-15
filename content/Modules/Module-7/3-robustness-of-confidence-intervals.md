@@ -1,6 +1,7 @@
----
-title: "Robustness of Confidence Intervals"
----
++++
+title = "Robustness of Confidence Intervals"
+hidden = true
++++
 
 A 95% confidence interval for a parameter is designed so that 95% of possible samples of data would result in an interval that would include the actual value of the parameter. But this rate of coverage of the parameter only holds if the conditions for which the confidence interval formula was developed are true. In this video, we’ll examine how close the coverage rates of our confidence intervals for proportions and means are to what we say they are, even if these conditions don’t hold.
 

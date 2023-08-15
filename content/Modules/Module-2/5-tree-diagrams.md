@@ -1,6 +1,7 @@
----
-title: "Tree Diagrams"
----
++++
+title = "Tree Diagrams"
+hidden = true
++++
 
 We can put together the multiplication and addition rules to solve problems involving conditional probability. Tree diagrams can help to organize the information and the solution.
 

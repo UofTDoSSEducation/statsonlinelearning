@@ -1,6 +1,7 @@
----
-title: "Normal Distributions"
----
++++
+title = "Normal Distributions"
+hidden = true
++++
 Normal distributions are good models for the randomness in many situations and are the basis for many statistical methods. In this sequence of videos, we’ll examine the properties of normal distributions and how to assess whether a set of data appear to be a sample of measurements from a normal distribution.
 
 Normal Distributions

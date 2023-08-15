@@ -1,6 +1,7 @@
----
-title: "Simple Linear Regression: Some Cautions"
----
++++
+title = "Simple Linear Regression: Some Cautions"
+hidden = true
++++
 
 Although regression is one of the most commonly used statistical methods, it is easy to use it inappropriately. Careful use of graphical tools, and knowing some of the potential pitfalls, can help avoid this.
 

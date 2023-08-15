@@ -1,9 +1,9 @@
----
-title: "Topics List"
-date: 2023-08-10T14:49:18-04:00
-draft: false
-weight: 2
----
++++
+title = "Topics List"
+disableToc = false
+weight = 2
++++
+
 ### Summarizing Data: One Variable
 
 **One variable statistics for a quantitative variable**: five number summary, percentile, mean, trimmed mean, range, interquartile range (IQR), variance, standard deviation, z-score

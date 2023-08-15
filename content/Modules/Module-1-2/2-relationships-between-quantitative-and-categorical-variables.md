@@ -1,6 +1,7 @@
----
-title: "Relationships Between Quantitative and Categorical Variables"
----
++++
+titl = "Relationships Between Quantitative and Categorical Variables"
+hidden = true
++++
 
 Most statistical questions are expressed in terms of relationships between variables. In this video, we consider how we can begin to examine if a relationship exists when one variable is categorical and the other is quantitative. This is often worded as: does the quantitative variable differ among the different values of the categorical variable? We can examine whether there are differences in centre, spread, or shape, considering both summary statistics and plots of the data.
 

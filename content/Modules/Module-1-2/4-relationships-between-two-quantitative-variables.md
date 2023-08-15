@@ -1,6 +1,7 @@
----
-title: "Relationships Between Two Quantitative Variables"
----
++++
+title = "Relationships Between Two Quantitative Variables"
+hidden = true
++++
 
 In this video, we consider the how to examine graphically whether or not a relationship exists between two quantitative variables and, in the case of a linear relationship, how we can quantify its strength and direction.
 

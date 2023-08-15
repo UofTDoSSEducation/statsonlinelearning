@@ -1,8 +1,7 @@
----
-title: "Some Features of Data"
-date: 2023-08-10T16:53:36-04:00
-draft: false
----
++++
+title = "Some Features of Data"
+hidden = true
++++
 
 Variables can take multiple forms and are traditionally arranged in rows and columns. Like any discipline, there is a vocabulary associated with statistics and it’s necessary to become comfortable with that vocabulary.
 

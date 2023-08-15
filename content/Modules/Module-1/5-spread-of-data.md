@@ -1,8 +1,7 @@
----
-title: "The Spread of the Data"
-date: 2023-08-10T16:53:35-04:00
-draft: false
----
++++
+title = "The Spread of the Data"
+hidden = true
++++
 
 Measures of centre give a typical value for a set of data. Measures of spread tell us how the data differ from each other. To understand statistical methods, it is essential to consider the variability in the data.
 

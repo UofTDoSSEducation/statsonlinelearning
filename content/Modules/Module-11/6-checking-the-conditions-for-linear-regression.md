@@ -1,6 +1,7 @@
----
-title: "Checking the Conditions for Linear Regression"
----
++++
+title = "Checking the Conditions for Linear Regression"
+hidden = true
++++
 
 To make valid conclusions about our data, it is necessary to satisfy the conditions that must hold to use linear regression and make inferences about the slope. This video summarizes these conditions and how to check them.
 

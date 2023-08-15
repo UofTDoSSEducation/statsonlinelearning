@@ -1,6 +1,7 @@
----
-title: "Examining Relationships Between Two Categorical Variables"
----
++++
+title = "Examining Relationships Between Two Categorical Variables"
+hidden = true
++++
 How can we examine if a relationship exists between two categorical variables? We can consider whether the distribution of cases among the values of one of the variable differs depending on the value of the other variable. For example, suppose the two categorical variables are handedness and sex. We could ask: Are the proportions of people who are left-handed different for males and females?
 
 Stream the video without the embedded quiz questions by clicking on the video link below. Closed captions are available.
