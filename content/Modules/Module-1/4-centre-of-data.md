@@ -1,8 +1,7 @@
----
-title: "The Centre of the Data and the Effects of Extreme Values"
-date: 2023-08-10T16:53:35-04:00
-draft: false
----
++++
+title = "The Centre of the Data and the Effects of Extreme Values"
+hidden = true
++++
 
 The mean and median are familiar ways to summarize the values of a numerical variable.  In many situations the values of the mean and median are similar, but unusual observations can lead to quite different results.
 

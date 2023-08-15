@@ -1,6 +1,7 @@
----
-title: "Confidence Intervals for Proportions"
----
++++
+title = "Confidence Intervals for Proportions"
+hidden = true
++++
 
 Confidence intervals for proportions are commonly quoted in news reports for polls, typically as the “margin of error, 19 times out of 20.” In this video we’ll see how a confidence interval for a proportion is constructed, to give a range of plausible values for the proportion in the population or the theoretical world based on the estimated proportion we’ve observed in the real world.
 

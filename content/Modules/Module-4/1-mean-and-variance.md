@@ -1,6 +1,7 @@
----
-title: "The Distribution of a Sample Mean: Mean and Variance"
----
++++
+title = "The Distribution of a Sample Mean: Mean and Variance"
+hidden = true
++++
 
 This learning activity and accompanying app will allow you to explore how the centre and spread of a sample mean compare to the centre and spread of the distribution of the individual measurements.
 

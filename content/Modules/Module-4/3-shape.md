@@ -1,6 +1,7 @@
----
-title: "The Distribution of a Sample Mean: Shape"
----
++++
+title = "The Distribution of a Sample Mean: Shape"
+hidden = true
++++
 
 Continuing with the Shiny app: Sampling Distribution of the Mean, we will now explore the shape of the distribution of the sample mean when the probability distribution of the individual measurements is skewed and how this shape varies with sample size.
 

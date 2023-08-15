@@ -1,6 +1,7 @@
----
-title: "The Long Run Distribution of a Proportion"
----
++++
+title = "The Long Run Distribution of a Proportion"
+hidden = true
++++
 
 For a large sample size, the probability distribution of the possible values of an average is approximately a normal distribution, regardless of the probability distribution of the original individual measurements. In this video, we investigate whether something similar is true when we’re interested in a proportion.
 

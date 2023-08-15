@@ -1,6 +1,7 @@
----
-title: "Power for Testing a Proportion"
----
++++
+title = "Power for Testing a Proportion"
+hidden = true
++++
 
 This Shiny app and accompanying learning activity are designed to allow you to investigate the factors affecting power for a test of a proportion.
 

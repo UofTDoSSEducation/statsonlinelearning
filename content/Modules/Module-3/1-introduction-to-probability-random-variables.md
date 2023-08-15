@@ -1,6 +1,7 @@
----
-title: "Introduction to Probability: Random Variables"
----
++++
+title = "Introduction to Probability: Random Variables"
+hidden = true
++++
 Statistical methods allow us to learn from noisy measurements. In order to do this, we need mathematical models for the random noise. So to understand statistics, it is important to understand some basics of probability.
 
 Stream the video without the embedded quiz questions by clicking on the video link below. Closed captions are available.

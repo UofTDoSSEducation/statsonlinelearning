@@ -1,6 +1,7 @@
----
-title: "The Distribution of a Sample Mean Part 2"
----
++++
+title = "The Distribution of a Sample Mean Part 2"
+hidden = true
++++
 
 One of the most important results in probability and statistics is the Central Limit Theorem. It tells us how averages of random measurements behave.
 

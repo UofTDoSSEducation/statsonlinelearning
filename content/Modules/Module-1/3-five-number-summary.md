@@ -1,8 +1,7 @@
----
-title: "The Five Number Summary"
-date: 2023-08-10T16:53:35-04:00
-draft: false
----
++++
+title = "The Five Number Summary"
+hidden = true
++++
 
 The five number summary gives a quick look at the features of numerical variables. In this video you will be introduced to the statistics that comprise the five number summary and how they can be displayed graphically in a box plot.
 

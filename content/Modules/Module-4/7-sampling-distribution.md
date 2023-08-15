@@ -1,6 +1,7 @@
----
-title: "Sampling Distributions"
----
++++
+title = "Sampling Distributions"
+hidden = true
++++
 
 The concept of a sampling distribution connects probability theory to inferential statistics. A sampling distribution is a probability distribution of a statistic. It allows us to quantify how much error there is in an estimate calculated from data, and whether any interesting differences we observe can be explained plausibly by random chance or if we’ll need another explanation.
 

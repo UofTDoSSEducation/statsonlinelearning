@@ -1,6 +1,7 @@
----
-title: "Observational Studies"
----
++++
+title = "Observational Studies"
+hidden = true
++++
 
 Most data are observational, collected without first imposing an intervention. When relationships are discovered in observational data, it is essential to be careful about what can be said regarding the nature of the relationships and the corresponding conclusions that can be made.
 

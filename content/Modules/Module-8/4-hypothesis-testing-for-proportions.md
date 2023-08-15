@@ -1,6 +1,7 @@
----
-title: "Hypothesis Testing for Proportions"
----
++++
+title = "Hypothesis Testing for Proportions"
+hidden = true
++++
 
 Is my coin biased? Has the percentage of voters in support of a politician changed? This video covers how to carry out a statistical test in situations such as these, when we are interested in measuring a proportion.
 

@@ -1,8 +1,7 @@
----
-title: "Z Scores"
-date: 2023-08-10T16:53:35-04:00
-draft: false
----
++++
+title = "Z Scores"
+hidden = true
++++
 
 Consider the histograms below which show the grades in two classes, each of 200 students. The mean grade in the first class is 70 with a standard deviation of 8. The mean grade in the second class is also 70, but with a standard deviation of 3.
 

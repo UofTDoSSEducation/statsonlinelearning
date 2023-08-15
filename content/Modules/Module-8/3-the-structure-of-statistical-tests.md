@@ -1,6 +1,7 @@
----
-title: "The Structure of Statistical Tests"
----
++++
+title = "The Structure of Statistical Tests"
+hidden = true
++++
 
 Do our data provide enough evidence for us to believe a claim about the population or theoretical world? In this video, you’ll be introduced to the steps to carrying out a statistical test in order to answer this question.
 

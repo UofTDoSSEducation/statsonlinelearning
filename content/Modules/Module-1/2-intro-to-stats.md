@@ -1,8 +1,7 @@
----
-title: "Introduction to Statistics"
-date: 2023-08-10T16:53:35-04:00
-draft: false
----
++++
+title = "Introduction to Statistics"
+hidden = true
++++
 
 This module is an introduction to the science of statistics. 
 

@@ -1,6 +1,7 @@
----
-title: "Bernoulli and Binomial Random Variables"
----
++++
+title = "Bernoulli and Binomial Random Variables"
+hidden = true
++++
 
 Many random events have two possible outcomes: either something happens or it doesn’t. In this video, we’ll look at random variables for this situation, and for the related situation in which we count the number of times something happens in a fixed number of trials.
 
