@@ -10,4 +10,4 @@ Follow the instructions in this [learning activity](../SkeletonDataAppExercise.p
 
 [Launch the app in a new browser window.](https://rconnect.utstat.utoronto.ca/skeletondataapp/)
 
-![](/img/SkeletonDataAppScreenShot.png)
+![](../../../img/SkeletonDataAppScreenShot.png)

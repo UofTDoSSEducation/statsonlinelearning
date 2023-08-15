@@ -9,7 +9,7 @@ For a random variable with a given distribution, a **quantile** is the value fro
 
 [Launch the app in a new browser window.](https://rconnect.utstat.utoronto.ca/distributionalcalculator/)
 
-![](/img/ScreenShotDistributionCalculator.png)
+![](../img/ScreenShotDistributionCalculator.png)
 
 This app was adapted from [R Tricks for Kids](http://www.stats.uwo.ca/faculty/braun/RTricks/RTricks.php) (external linkis no longer valid).
 
