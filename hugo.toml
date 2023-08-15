@@ -4,6 +4,3 @@ title = 'STA220'
 theme = "hugo-theme-relearn"
 [outputs]
 home = [ "HTML", "RSS", "SEARCH"]
-
-canonifyURLs = true
-relativeURLs = true
