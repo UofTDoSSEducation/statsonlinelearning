@@ -9,7 +9,7 @@ Stream the video without the embedded quiz questions by clicking on the video li
 
 {{< youtube is12w0-Tzdo >}}
 
-Notes on the video: The Distribution of a Sample Mean Part 2 --link missing.
+[Notes on the video: The Distribution of a Sample Mean Part 2](../6-2-The-Distribution-of-a-Sample-Mean-Part-2.pdf)
 
 ### A point to consider for this video:
 
